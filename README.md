@@ -12,21 +12,13 @@
 ---
 
 ### 🌱 Currently Learning
-🚀 I’m currently diving deeper into:
-- **Embedded systems and microcontroller programming**
-- **Sensor interfacing and automation**
-- **IoT and hardware-software integration**
-- **Version control using Git & GitHub**
+🚀 I’m currently exploring embedded systems, sensor automation, IoT integration, and Git/GitHub for version control.
 
 ---
 
 ### 📌 Experience
-**🎯 Internship at Mirana Innovations Pvt. Ltd.**  
-🧪 *Testing Department – RC Circuit Analysis for Electronic Toys*  
-- Analyzed and troubleshooted non-working RC toy circuits.  
-- Assisted in testing and developing functional prototypes.  
-- Gained hands-on experience with ICs, transistors, and embedded circuits.  
-- Collaborated with team to document findings and improve reliability.
+🎯 Internship at Mirana Innovations Pvt. Ltd. – Testing Department
+Worked on analyzing and troubleshooting non-functional RC toy circuits, identifying issues with components like ICs, transistors, and wiring. Contributed to the testing and improvement of prototypes, ensuring better performance and reliability. Gained practical experience in circuit diagnostics, embedded hardware, and collaborative problem-solving within an engineering team.
 
 ---
 
@@ -72,8 +64,4 @@
 
 ---
 
-### 🧠 Quote of the Day
-> *"Innovation is the outcome of a habit, not a random act." – Sukant Ratnakar*
-
----
 
