@@ -30,8 +30,6 @@ Worked on analyzing and troubleshooting non-functional RC toy circuits, identify
 
 ### ⚙️ Tools & Technologies
 
-### ⚙️ Tools & Technologies
-
 <p align="center">
   <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40" style="margin: 10px;"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" style="margin: 10px;"/>
