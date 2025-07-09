@@ -58,11 +58,3 @@ Worked on analyzing and troubleshooting non-functional RC toy circuits, identify
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ompawar3333&theme=react" alt="GitHub Streak" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ompawar3333&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
----
-
-
