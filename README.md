@@ -49,12 +49,5 @@ Worked on analyzing and troubleshooting non-functional RC toy circuits, identify
 
 ---
 
-### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ompawar3333&show_icons=true&theme=radical" alt="Om's GitHub Stats" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ompawar3333&theme=react" alt="GitHub Streak" />
-</p>
